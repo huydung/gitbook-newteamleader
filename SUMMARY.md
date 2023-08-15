@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Lần đầu làm Trưởng nhóm](README.md)
 
 ## About us
 
@@ -10,15 +10,15 @@
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
-## Team
+## Lộ trình 12 tuần <a href="#12-week-roadmap" id="12-week-roadmap"></a>
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Meet the Team!](12-week-roadmap/meet-the-team.md)
 
-## Collaborating
+## Bộ Công Cụ <a href="#toolbox" id="toolbox"></a>
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 How we Work Together](toolbox/how-we-work-together.md)
+* [📅 Meetings](toolbox/meetings.md)
 
-## Policies
+## Nhận sự giúp đỡ trực tiếp <a href="#need-help" id="need-help"></a>
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Requesting Time Off](need-help/requesting-time-off.md)
